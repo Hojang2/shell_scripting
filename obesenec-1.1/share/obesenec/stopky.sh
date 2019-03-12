@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #---------------------------------
-# Souèást hry Obì¹enec
+# SouÃ¨Ã¡st hry ObÃ¬Â¹enec
 #---------------------------------
-# Poslední modifikace: 4.11. 2003
-#        Znaková sada: ISO-8859-2
+# PoslednÃ­ modifikace: 4.11. 2003
+#        ZnakovÃ¡ sada: ISO-8859-2
 #---------------------------------
 
 trap 'exit 0' TERM

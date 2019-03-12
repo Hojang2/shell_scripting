@@ -1,280 +1,280 @@
 ------------------------------------------
-GNU general public licence - èeskı pøeklad
+GNU general public licence - Ã¨eskÃ½ pÃ¸eklad
 ------------------------------------------
 
-Verze 2, èerven 1991
+Verze 2, Ã¨erven 1991
 
      Copyright (c) 1989, 1991 Free Software Foundation, Inc. 675 Mass Ave,
      Cambridge, MA 02139, USA
 
-     Kopírování a distribuce doslovnıch kopií tohoto licenèního dokumentu jsou
-     dovoleny komukoliv, jeho zmìny jsou v¹ak zakázány.
+     KopÃ­rovÃ¡nÃ­ a distribuce doslovnÃ½ch kopiÃ­ tohoto licenÃ¨nÃ­ho dokumentu jsou
+     dovoleny komukoliv, jeho zmÃ¬ny jsou vÂ¹ak zakÃ¡zÃ¡ny.
 
 ---------
 Preambule
 ---------
 
-Licence pro vìt¹inu programového vybavení jsou navr¾eny tak, ¾e vám
-odebírají právo jeho volného sdílení a úprav. Smyslem Obecné veøejné licence
-GNU je naproti tomu zaruèit volnost sdílení a úpravy volného programového
-vybavení - pro zaji¹tìní volného pøístupu k tomuto programovému vybavení pro
-v¹echny jeho u¾ivatele. Tato Obecná veøejná licence GNU se vztahuje na
-vìt¹inu programového vybavení nadace Free Software Foundation a na jakıkoli
-jinı program, jeho¾ autor se pøikloní k jejímu pou¾ívání. (Nìkteré dal¹í
-programové vybavení od Free Software Foundation je namísto toho pokryto
-Obecnou knihovní veøejnou licencí GNU.) Mù¾ete ji rovnì¾ pou¾ít pro své
+Licence pro vÃ¬tÂ¹inu programovÃ©ho vybavenÃ­ jsou navrÂ¾eny tak, Â¾e vÃ¡m
+odebÃ­rajÃ­ prÃ¡vo jeho volnÃ©ho sdÃ­lenÃ­ a Ãºprav. Smyslem ObecnÃ© veÃ¸ejnÃ© licence
+GNU je naproti tomu zaruÃ¨it volnost sdÃ­lenÃ­ a Ãºpravy volnÃ©ho programovÃ©ho
+vybavenÃ­ - pro zajiÂ¹tÃ¬nÃ­ volnÃ©ho pÃ¸Ã­stupu k tomuto programovÃ©mu vybavenÃ­ pro
+vÂ¹echny jeho uÂ¾ivatele. Tato ObecnÃ¡ veÃ¸ejnÃ¡ licence GNU se vztahuje na
+vÃ¬tÂ¹inu programovÃ©ho vybavenÃ­ nadace Free Software Foundation a na jakÃ½koli
+jinÃ½ program, jehoÂ¾ autor se pÃ¸iklonÃ­ k jejÃ­mu pouÂ¾Ã­vÃ¡nÃ­. (NÃ¬kterÃ© dalÂ¹Ã­
+programovÃ© vybavenÃ­ od Free Software Foundation je namÃ­sto toho pokryto
+Obecnou knihovnÃ­ veÃ¸ejnou licencÃ­ GNU.) MÃ¹Â¾ete ji rovnÃ¬Â¾ pouÂ¾Ã­t pro svÃ©
 programy.
 
-Pokud mluvíme o volném programovém vybavení, máme na mysli volnost, nikoliv
-cenu. Na¹e Obecná veøejná licence je navr¾ena pro zaji¹tìní toho, ¾e mù¾ete
-volnì ¹íøit kopie volného programového vybavení (a úètovat si za tuto
-slu¾bu, pokud chcete), ¾e obdr¾íte zdrojovı kód anebo jej mù¾ete získat,
-pokud chcete, ¾e mù¾ete tento software mìnit nebo jeho èásti pou¾ít v novıch
-programech; a ¾e víte, ¾e tyto vìci smíte dìlat.
+Pokud mluvÃ­me o volnÃ©m programovÃ©m vybavenÃ­, mÃ¡me na mysli volnost, nikoliv
+cenu. NaÂ¹e ObecnÃ¡ veÃ¸ejnÃ¡ licence je navrÂ¾ena pro zajiÂ¹tÃ¬nÃ­ toho, Â¾e mÃ¹Â¾ete
+volnÃ¬ Â¹Ã­Ã¸it kopie volnÃ©ho programovÃ©ho vybavenÃ­ (a ÃºÃ¨tovat si za tuto
+sluÂ¾bu, pokud chcete), Â¾e obdrÂ¾Ã­te zdrojovÃ½ kÃ³d anebo jej mÃ¹Â¾ete zÃ­skat,
+pokud chcete, Â¾e mÃ¹Â¾ete tento software mÃ¬nit nebo jeho Ã¨Ã¡sti pouÂ¾Ã­t v novÃ½ch
+programech; a Â¾e vÃ­te, Â¾e tyto vÃ¬ci smÃ­te dÃ¬lat.
 
-Abychom mohli va¹e práva chránit, musíme vytvoøit omezení, která zaká¾í
-komukoli vám tato práva odepírat nebo vás ¾ádat, abyste se tìchto práv
-vzdal. Tato omezení se promítají do jistıch povinností, kterım musíte
-dostát, pokud ¹íøíte kopie dotyèného programového vybavení anebo ho
+Abychom mohli vaÂ¹e prÃ¡va chrÃ¡nit, musÃ­me vytvoÃ¸it omezenÃ­, kterÃ¡ zakÃ¡Â¾Ã­
+komukoli vÃ¡m tato prÃ¡va odepÃ­rat nebo vÃ¡s Â¾Ã¡dat, abyste se tÃ¬chto prÃ¡v
+vzdal. Tato omezenÃ­ se promÃ­tajÃ­ do jistÃ½ch povinnostÃ­, kterÃ½m musÃ­te
+dostÃ¡t, pokud Â¹Ã­Ã¸Ã­te kopie dotyÃ¨nÃ©ho programovÃ©ho vybavenÃ­ anebo ho
 modifikujete.
 
-Napøíklad, ¹íøíte-li kopie takového programu, a» ji¾ zdarma nebo za
-poplatek, musíte poskytnout pøíjemcùm v¹echna práva, která máte sám. Musíte
-zaruèit, ¾e pøíjemci rovnì¾ dostanou anebo mohou získat zdrojovı kód. A
-musíte jim ukázat tyto podmínky, aby znali svá práva.
+NapÃ¸Ã­klad, Â¹Ã­Ã¸Ã­te-li kopie takovÃ©ho programu, aÂ» jiÂ¾ zdarma nebo za
+poplatek, musÃ­te poskytnout pÃ¸Ã­jemcÃ¹m vÂ¹echna prÃ¡va, kterÃ¡ mÃ¡te sÃ¡m. MusÃ­te
+zaruÃ¨it, Â¾e pÃ¸Ã­jemci rovnÃ¬Â¾ dostanou anebo mohou zÃ­skat zdrojovÃ½ kÃ³d. A
+musÃ­te jim ukÃ¡zat tyto podmÃ­nky, aby znali svÃ¡ prÃ¡va.
 
-Va¹e práva chráníme ve dvou krocích: (1) autorizací programového vybavení, a
-(2) nabídkou této licence, která vám dává právoplatné svolení ke kopírování,
-¹íøení a modifikaci programového vybavení.
+VaÂ¹e prÃ¡va chrÃ¡nÃ­me ve dvou krocÃ­ch: (1) autorizacÃ­ programovÃ©ho vybavenÃ­, a
+(2) nabÃ­dkou tÃ©to licence, kterÃ¡ vÃ¡m dÃ¡vÃ¡ prÃ¡voplatnÃ© svolenÃ­ ke kopÃ­rovÃ¡nÃ­,
+Â¹Ã­Ã¸enÃ­ a modifikaci programovÃ©ho vybavenÃ­.
 
-Kvùli ochranì ka¾dého autora i nás samotnıch chceme zaruèit, aby ka¾dı
-chápal skuteènost, ¾e pro volné programové vybavení nejsou ¾ádné záruky.
-Je-li programové vybavení nìkım jinım modifikováno a posláno dále, chceme,
-aby pøíjemci vìdìli, ¾e to, co mají, není originál, tak¾e jakékoliv problémy
-vnesené jinımi se neodrazí na reputaci pùvodních autorù.
+KvÃ¹li ochranÃ¬ kaÂ¾dÃ©ho autora i nÃ¡s samotnÃ½ch chceme zaruÃ¨it, aby kaÂ¾dÃ½
+chÃ¡pal skuteÃ¨nost, Â¾e pro volnÃ© programovÃ© vybavenÃ­ nejsou Â¾Ã¡dnÃ© zÃ¡ruky.
+Je-li programovÃ© vybavenÃ­ nÃ¬kÃ½m jinÃ½m modifikovÃ¡no a poslÃ¡no dÃ¡le, chceme,
+aby pÃ¸Ã­jemci vÃ¬dÃ¬li, Â¾e to, co majÃ­, nenÃ­ originÃ¡l, takÂ¾e jakÃ©koliv problÃ©my
+vnesenÃ© jinÃ½mi se neodrazÃ­ na reputaci pÃ¹vodnÃ­ch autorÃ¹.
 
-Koneènì, ka¾dı volnı program je neustále ohro¾en softwareovımi patenty.
-Pøejeme si zamezit nebezpeèí, ¾e redistributoøi volného programu obdr¾í
-samostatnì patentová osvìdèení a tím uèiní program vázanım. Abychom tomu
-zamezili, deklarovali jsme, ¾e ka¾dı patent musí bıt buï vydán s tím, ¾e
-umo¾òuje volné u¾ití, anebo nesmí bıt vydán vùbec.
+KoneÃ¨nÃ¬, kaÂ¾dÃ½ volnÃ½ program je neustÃ¡le ohroÂ¾en softwareovÃ½mi patenty.
+PÃ¸ejeme si zamezit nebezpeÃ¨Ã­, Â¾e redistributoÃ¸i volnÃ©ho programu obdrÂ¾Ã­
+samostatnÃ¬ patentovÃ¡ osvÃ¬dÃ¨enÃ­ a tÃ­m uÃ¨inÃ­ program vÃ¡zanÃ½m. Abychom tomu
+zamezili, deklarovali jsme, Â¾e kaÂ¾dÃ½ patent musÃ­ bÃ½t buÃ¯ vydÃ¡n s tÃ­m, Â¾e
+umoÂ¾Ã²uje volnÃ© uÂ¾itÃ­, anebo nesmÃ­ bÃ½t vydÃ¡n vÃ¹bec.
 
-Pøesná ustanovení a podmínky pro kopírování, ¹íøení a modifikaci jsou
-uvedeny dále.
+PÃ¸esnÃ¡ ustanovenÃ­ a podmÃ­nky pro kopÃ­rovÃ¡nÃ­, Â¹Ã­Ã¸enÃ­ a modifikaci jsou
+uvedeny dÃ¡le.
 
 -------------------------------------------------------------
-Ustanovení a podmínky pro kopírování, distribuci a modifikaci
+UstanovenÃ­ a podmÃ­nky pro kopÃ­rovÃ¡nÃ­, distribuci a modifikaci
 -------------------------------------------------------------
 
-0. Tato licence se vztahuje na kterıkoliv program èi jiné dílo, které
-obsahuje zmínku, umístìnou v nìm dr¾itelem autorskıch práv, o tom, ¾e dílo
-mù¾e bıt ¹íøeno podle ustanovení Obecné veøejné licence GNU. V dal¹ím textu
-znamená ,,Program'' ka¾dı takovı program nebo dílo a ,,dílo zalo¾ené na
-Programu'' znamená buï Program samotnı anebo ka¾dé jiné dílo z nìj odvozené,
-které podléhá autorskému zákonu: tím se míní dílo obsahující Program nebo
-jeho èást, buï doslovnì anebo s modifikacemi, popøípadì v pøekladu do jiného
-jazyka. (Nadále je pøeklad zahrnován bez omezení pod pojmem ,,modifikace''
-.) Ka¾dı u¾ivatel licence je oznaèován jako ,,vy'' .
+0. Tato licence se vztahuje na kterÃ½koliv program Ã¨i jinÃ© dÃ­lo, kterÃ©
+obsahuje zmÃ­nku, umÃ­stÃ¬nou v nÃ¬m drÂ¾itelem autorskÃ½ch prÃ¡v, o tom, Â¾e dÃ­lo
+mÃ¹Â¾e bÃ½t Â¹Ã­Ã¸eno podle ustanovenÃ­ ObecnÃ© veÃ¸ejnÃ© licence GNU. V dalÂ¹Ã­m textu
+znamenÃ¡ ,,Program'' kaÂ¾dÃ½ takovÃ½ program nebo dÃ­lo a ,,dÃ­lo zaloÂ¾enÃ© na
+Programu'' znamenÃ¡ buÃ¯ Program samotnÃ½ anebo kaÂ¾dÃ© jinÃ© dÃ­lo z nÃ¬j odvozenÃ©,
+kterÃ© podlÃ©hÃ¡ autorskÃ©mu zÃ¡konu: tÃ­m se mÃ­nÃ­ dÃ­lo obsahujÃ­cÃ­ Program nebo
+jeho Ã¨Ã¡st, buÃ¯ doslovnÃ¬ anebo s modifikacemi, popÃ¸Ã­padÃ¬ v pÃ¸ekladu do jinÃ©ho
+jazyka. (NadÃ¡le je pÃ¸eklad zahrnovÃ¡n bez omezenÃ­ pod pojmem ,,modifikace''
+.) KaÂ¾dÃ½ uÂ¾ivatel licence je oznaÃ¨ovÃ¡n jako ,,vy'' .
 
-Jiné èinnosti ne¾ kopírování, ¹íøení a modifikace nejsou pokryty touto
-licencí; sahají mimo její rámec. Akt spu¹tìní programu není omezen a vıstup
-z Programu je pokryt pouze tehdy, jestli¾e obsah vıstupu tvoøí dílo zalo¾ené
-na Programu (nezávisle na tom, zda bylo vytvoøeno èinností Programu).
-Posouzení platnosti pøedchozí vìty závisí na tom, co Program dìlá.
+JinÃ© Ã¨innosti neÂ¾ kopÃ­rovÃ¡nÃ­, Â¹Ã­Ã¸enÃ­ a modifikace nejsou pokryty touto
+licencÃ­; sahajÃ­ mimo jejÃ­ rÃ¡mec. Akt spuÂ¹tÃ¬nÃ­ programu nenÃ­ omezen a vÃ½stup
+z Programu je pokryt pouze tehdy, jestliÂ¾e obsah vÃ½stupu tvoÃ¸Ã­ dÃ­lo zaloÂ¾enÃ©
+na Programu (nezÃ¡visle na tom, zda bylo vytvoÃ¸eno Ã¨innostÃ­ Programu).
+PosouzenÃ­ platnosti pÃ¸edchozÃ­ vÃ¬ty zÃ¡visÃ­ na tom, co Program dÃ¬lÃ¡.
 
-  1. Smíte kopírovat a ¹íøit doslovné kopie zdrojového kódu Programu tak,
-     jak jste jej obdr¾el, a na libovolém médiu, za pøedpokladu, ¾e na ka¾dé
-     kopii viditelnì a nále¾itì zveøejníte zmínku o autorskıch právech
-     a absenci záruky; ponecháte nedotèené v¹echny zmínky vztahující se
-     k této licenci a k absenci záruky; a dáte ka¾dému pøíjemci spolu
-     s Programem kopii této licence.
+  1. SmÃ­te kopÃ­rovat a Â¹Ã­Ã¸it doslovnÃ© kopie zdrojovÃ©ho kÃ³du Programu tak,
+     jak jste jej obdrÂ¾el, a na libovolÃ©m mÃ©diu, za pÃ¸edpokladu, Â¾e na kaÂ¾dÃ©
+     kopii viditelnÃ¬ a nÃ¡leÂ¾itÃ¬ zveÃ¸ejnÃ­te zmÃ­nku o autorskÃ½ch prÃ¡vech
+     a absenci zÃ¡ruky; ponechÃ¡te nedotÃ¨enÃ© vÂ¹echny zmÃ­nky vztahujÃ­cÃ­ se
+     k tÃ©to licenci a k absenci zÃ¡ruky; a dÃ¡te kaÂ¾dÃ©mu pÃ¸Ã­jemci spolu
+     s Programem kopii tÃ©to licence.
 
-     Za fyzickı akt pøenesení kopie mù¾ete ¾ádat poplatek a podle vlastního
-     uvá¾ení mù¾ete nabídnout za poplatek záruèní ochranu.
+     Za fyzickÃ½ akt pÃ¸enesenÃ­ kopie mÃ¹Â¾ete Â¾Ã¡dat poplatek a podle vlastnÃ­ho
+     uvÃ¡Â¾enÃ­ mÃ¹Â¾ete nabÃ­dnout za poplatek zÃ¡ruÃ¨nÃ­ ochranu.
 
-  2. Mù¾ete modifikovat va¹i kopii èi kopie Programu anebo kterékoliv jeho
-     èásti, a tak vytvoøit dílo zalo¾ené na Programu, a kopírovat
-     a roz¹iøovat takové modifikace èi dílo podle platné podmínky sekce 1,
-     za pøedpokladu, ¾e splníte v¹echny tyto podmínky:
+  2. MÃ¹Â¾ete modifikovat vaÂ¹i kopii Ã¨i kopie Programu anebo kterÃ©koliv jeho
+     Ã¨Ã¡sti, a tak vytvoÃ¸it dÃ­lo zaloÂ¾enÃ© na Programu, a kopÃ­rovat
+     a rozÂ¹iÃ¸ovat takovÃ© modifikace Ã¨i dÃ­lo podle platnÃ© podmÃ­nky sekce 1,
+     za pÃ¸edpokladu, Â¾e splnÃ­te vÂ¹echny tyto podmÃ­nky:
 
-          a) Modifikované soubory musíte opatøit zøetelnou zmínkou
-          uvádìjící, ¾e jste soubory zmìnil a datum ka¾dé zmìny.
+          a) ModifikovanÃ© soubory musÃ­te opatÃ¸it zÃ¸etelnou zmÃ­nkou
+          uvÃ¡dÃ¬jÃ­cÃ­, Â¾e jste soubory zmÃ¬nil a datum kaÂ¾dÃ© zmÃ¬ny.
 
-          b) Musíte umo¾nit, aby jakékoliv vámi publikované dílo
-          èi roz¹iøované dílo, které obsahuje zcela nebo jen zèásti
-          Program nebo jakoukoli jeho èást, popøípadì je z Programu
-          nebo jeho èásti odvozeno, mohlo bıt jako celek bezplatnì
-          poskytnuto ka¾dé tøetí osobì v souladu s ustanoveními této
+          b) MusÃ­te umoÂ¾nit, aby jakÃ©koliv vÃ¡mi publikovanÃ© dÃ­lo
+          Ã¨i rozÂ¹iÃ¸ovanÃ© dÃ­lo, kterÃ© obsahuje zcela nebo jen zÃ¨Ã¡sti
+          Program nebo jakoukoli jeho Ã¨Ã¡st, popÃ¸Ã­padÃ¬ je z Programu
+          nebo jeho Ã¨Ã¡sti odvozeno, mohlo bÃ½t jako celek bezplatnÃ¬
+          poskytnuto kaÂ¾dÃ© tÃ¸etÃ­ osobÃ¬ v souladu s ustanovenÃ­mi tÃ©to
           licence.
 
-          c) Pokud modifikovanı program pracuje tak, ¾e ète
-          interaktivnì povely, musíte zjistit, ¾e pøi nejbì¾nìj¹ím
-          zpùsobu jeho spu¹tìní vytiskne nebo zobrazí hlá¹ení
-          zahrnující pøíslu¹nou zmínku o autorském právu a uvede, ¾e
-          neexistuje ¾ádná záruka (nebo popøípadì, ¾e záruku
-          poskytujete vy), a ¾e u¾ivatelé mohou za tìchto podmínek
-          Program redistribuovat, a musí u¾ivateli sdìlit, jakım
-          zpùsobem mù¾e nahlédnout do kopie této licence. (Vıjimka: v
-          pøípadì, ¾e sám program je interaktivní, av¹ak ¾ádné takové
-          hlá¹ení nevypisuje, nepo¾aduje se, aby va¹e dílo zalo¾ené na
-          Programu takové hlá¹ení vypisovalo.)
+          c) Pokud modifikovanÃ½ program pracuje tak, Â¾e Ã¨te
+          interaktivnÃ¬ povely, musÃ­te zjistit, Â¾e pÃ¸i nejbÃ¬Â¾nÃ¬jÂ¹Ã­m
+          zpÃ¹sobu jeho spuÂ¹tÃ¬nÃ­ vytiskne nebo zobrazÃ­ hlÃ¡Â¹enÃ­
+          zahrnujÃ­cÃ­ pÃ¸Ã­sluÂ¹nou zmÃ­nku o autorskÃ©m prÃ¡vu a uvede, Â¾e
+          neexistuje Â¾Ã¡dnÃ¡ zÃ¡ruka (nebo popÃ¸Ã­padÃ¬, Â¾e zÃ¡ruku
+          poskytujete vy), a Â¾e uÂ¾ivatelÃ© mohou za tÃ¬chto podmÃ­nek
+          Program redistribuovat, a musÃ­ uÂ¾ivateli sdÃ¬lit, jakÃ½m
+          zpÃ¹sobem mÃ¹Â¾e nahlÃ©dnout do kopie tÃ©to licence. (VÃ½jimka: v
+          pÃ¸Ã­padÃ¬, Â¾e sÃ¡m program je interaktivnÃ­, avÂ¹ak Â¾Ã¡dnÃ© takovÃ©
+          hlÃ¡Â¹enÃ­ nevypisuje, nepoÂ¾aduje se, aby vaÂ¹e dÃ­lo zaloÂ¾enÃ© na
+          Programu takovÃ© hlÃ¡Â¹enÃ­ vypisovalo.)
 
-     Tyto po¾adavky se vztahují k modifikovanému dílu jako celku. Pokud lze
-     identifikovat èásti takového díla, které zøejmì nejsou odvozeny
-     z Programu a mohou bıt samy o sobì rozumnì pova¾ovány za nezávislá
-     a samostatná díla, pak se tato licence a její ustanovení nevztahují na
-     tyto èásti, jsou-li ¹íøeny jako nezávislá díla. Av¹ak jakmile tyto
-     èásti roz¹iøujete jako èásti celku, jím¾ je dílo zalo¾ené na Programu,
-     musí bıt roz¹iøování tohoto celku podøízeno ustanovení této licence
-     tak, ¾e povolení poskytnutá dal¹ím u¾ivatelùm se roz¹íøí na celé dílo,
-     tedy na v¹echny jeho èásti bez ohledu na to, kdo kterou èást napsal.
+     Tyto poÂ¾adavky se vztahujÃ­ k modifikovanÃ©mu dÃ­lu jako celku. Pokud lze
+     identifikovat Ã¨Ã¡sti takovÃ©ho dÃ­la, kterÃ© zÃ¸ejmÃ¬ nejsou odvozeny
+     z Programu a mohou bÃ½t samy o sobÃ¬ rozumnÃ¬ povaÂ¾ovÃ¡ny za nezÃ¡vislÃ¡
+     a samostatnÃ¡ dÃ­la, pak se tato licence a jejÃ­ ustanovenÃ­ nevztahujÃ­ na
+     tyto Ã¨Ã¡sti, jsou-li Â¹Ã­Ã¸eny jako nezÃ¡vislÃ¡ dÃ­la. AvÂ¹ak jakmile tyto
+     Ã¨Ã¡sti rozÂ¹iÃ¸ujete jako Ã¨Ã¡sti celku, jÃ­mÂ¾ je dÃ­lo zaloÂ¾enÃ© na Programu,
+     musÃ­ bÃ½t rozÂ¹iÃ¸ovÃ¡nÃ­ tohoto celku podÃ¸Ã­zeno ustanovenÃ­ tÃ©to licence
+     tak, Â¾e povolenÃ­ poskytnutÃ¡ dalÂ¹Ã­m uÂ¾ivatelÃ¹m se rozÂ¹Ã­Ã¸Ã­ na celÃ© dÃ­lo,
+     tedy na vÂ¹echny jeho Ã¨Ã¡sti bez ohledu na to, kdo kterou Ã¨Ã¡st napsal.
 
-     Smyslem tohoto paragrafu tedy není získání práv na dílo zcela napsané
-     vámi ani popírání va¹ich práv vùèi nìmu; skuteènım smyslem je vıkon
-     práva na øízení distribuce odvozenıch nebo kolektivních dìl zalo¾enıch
+     Smyslem tohoto paragrafu tedy nenÃ­ zÃ­skÃ¡nÃ­ prÃ¡v na dÃ­lo zcela napsanÃ©
+     vÃ¡mi ani popÃ­rÃ¡nÃ­ vaÂ¹ich prÃ¡v vÃ¹Ã¨i nÃ¬mu; skuteÃ¨nÃ½m smyslem je vÃ½kon
+     prÃ¡va na Ã¸Ã­zenÃ­ distribuce odvozenÃ½ch nebo kolektivnÃ­ch dÃ¬l zaloÂ¾enÃ½ch
      na Programu.
 
-     Pouhé spojení jiného díla, je¾ není na Programu zalo¾eno, s Programem
-     (anebo dílem zalo¾enım na Programu) na pamì»ovém nebo distribuèním
-     médiu neuvazuje toto jiné dílo do pùsobnosti této licence.
+     PouhÃ© spojenÃ­ jinÃ©ho dÃ­la, jeÂ¾ nenÃ­ na Programu zaloÂ¾eno, s Programem
+     (anebo dÃ­lem zaloÂ¾enÃ½m na Programu) na pamÃ¬Â»ovÃ©m nebo distribuÃ¨nÃ­m
+     mÃ©diu neuvazuje toto jinÃ© dÃ­lo do pÃ¹sobnosti tÃ©to licence.
 
-  3. Mù¾ete kopírovat a roz¹iøovat Program (nebo dílo na nìm zalo¾ené, viz
-     sekce 2 v objektové anebo spustitelné podobì podle ustanovení sekcí 1
-     a 2 vı¹e, pokud splníte nìkterou z následujících nále¾itostí:
+  3. MÃ¹Â¾ete kopÃ­rovat a rozÂ¹iÃ¸ovat Program (nebo dÃ­lo na nÃ¬m zaloÂ¾enÃ©, viz
+     sekce 2 v objektovÃ© anebo spustitelnÃ© podobÃ¬ podle ustanovenÃ­ sekcÃ­ 1
+     a 2 vÃ½Â¹e, pokud splnÃ­te nÃ¬kterou z nÃ¡sledujÃ­cÃ­ch nÃ¡leÂ¾itostÃ­:
 
-          a) Doprovodíte jej zdrojovım kódem ve strojovì èitelné formì.
-          Zdrojovı kód musí bıt roz¹iøován podle ustanovení sekcí 1
-          a 2, a to na médiu bì¾nì pou¾ívaném pro vımìnu programového
-          vybavení; nebo
+          a) DoprovodÃ­te jej zdrojovÃ½m kÃ³dem ve strojovÃ¬ Ã¨itelnÃ© formÃ¬.
+          ZdrojovÃ½ kÃ³d musÃ­ bÃ½t rozÂ¹iÃ¸ovÃ¡n podle ustanovenÃ­ sekcÃ­ 1
+          a 2, a to na mÃ©diu bÃ¬Â¾nÃ¬ pouÂ¾Ã­vanÃ©m pro vÃ½mÃ¬nu programovÃ©ho
+          vybavenÃ­; nebo
 
-          b) Doprovodíte je písemnou nabídkou nejménì na tøi roky,
-          podle ní¾ poskytnete jakékoli tøetí stranì, za poplatek
-          nepøevy¹ující va¹e vıdaje vynalo¾ené na fyzickou vırobu
-          zdrojové distribuce, kompletní strojovì èitelnou kopii
-          odpovídající zdrojovému kódu, jen¾ musí bıt ¹íøen podle
-          ustanovení sekcí 1 a 2 na médiu bì¾nì pou¾ívaném pro vımìnu
-          programového vybavení; nebo
+          b) DoprovodÃ­te je pÃ­semnou nabÃ­dkou nejmÃ©nÃ¬ na tÃ¸i roky,
+          podle nÃ­Â¾ poskytnete jakÃ©koli tÃ¸etÃ­ stranÃ¬, za poplatek
+          nepÃ¸evyÂ¹ujÃ­cÃ­ vaÂ¹e vÃ½daje vynaloÂ¾enÃ© na fyzickou vÃ½robu
+          zdrojovÃ© distribuce, kompletnÃ­ strojovÃ¬ Ã¨itelnou kopii
+          odpovÃ­dajÃ­cÃ­ zdrojovÃ©mu kÃ³du, jenÂ¾ musÃ­ bÃ½t Â¹Ã­Ã¸en podle
+          ustanovenÃ­ sekcÃ­ 1 a 2 na mÃ©diu bÃ¬Â¾nÃ¬ pouÂ¾Ã­vanÃ©m pro vÃ½mÃ¬nu
+          programovÃ©ho vybavenÃ­; nebo
 
-          c) Doprovodíte jej informacemi, které jste dostal ohlednì
-          nabídky na poskytnutí zdrojového kódu. (Tato alternativa je
-          povolena jen pro nekomerèní ¹íøení a jenom tehdy, pokud jste
-          obdr¾el program v objektovém nebo spustitelném tvaru spolu
-          s takovou nabídkou, v souladu s polo¾kou b vı¹e.)
+          c) DoprovodÃ­te jej informacemi, kterÃ© jste dostal ohlednÃ¬
+          nabÃ­dky na poskytnutÃ­ zdrojovÃ©ho kÃ³du. (Tato alternativa je
+          povolena jen pro nekomerÃ¨nÃ­ Â¹Ã­Ã¸enÃ­ a jenom tehdy, pokud jste
+          obdrÂ¾el program v objektovÃ©m nebo spustitelnÃ©m tvaru spolu
+          s takovou nabÃ­dkou, v souladu s poloÂ¾kou b vÃ½Â¹e.)
 
-     Zdrojovı kód k dílu je nejvhodnìj¹í formou díla z hlediska jeho
-     pøípadnıch modifikací. Pro dílo ve spustitelném tvaru znamená úplnı
-     zdrojovı kód ve¹kerı zdrojovı kód pro v¹echny moduly, které obsahuje,
-     plus jakékoli dal¹í soubory pro definici rozhraní, plus dávkové soubory
-     potøebné pro kompilaci a instalaci spustitelného programu. Zvlá¹tní
-     vıjimkou jsou v¹ak ty programové komponenty, které jsou normálnì ¹íøeny
-     (buï ve zdrojové nebo binární formì) s hlavními souèástmi operaèního
-     systému, na nìm¾ spustitelnı program bì¾í (tj. s pøekladaèem, jádrem
-     apod.). Tyto komponenty nemusí bıt ¹íøeny se zdrojovım kódem, pokud
-     ov¹em komponenta sama nedoprovází spustitelnou podobu díla.
+     ZdrojovÃ½ kÃ³d k dÃ­lu je nejvhodnÃ¬jÂ¹Ã­ formou dÃ­la z hlediska jeho
+     pÃ¸Ã­padnÃ½ch modifikacÃ­. Pro dÃ­lo ve spustitelnÃ©m tvaru znamenÃ¡ ÃºplnÃ½
+     zdrojovÃ½ kÃ³d veÂ¹kerÃ½ zdrojovÃ½ kÃ³d pro vÂ¹echny moduly, kterÃ© obsahuje,
+     plus jakÃ©koli dalÂ¹Ã­ soubory pro definici rozhranÃ­, plus dÃ¡vkovÃ© soubory
+     potÃ¸ebnÃ© pro kompilaci a instalaci spustitelnÃ©ho programu. ZvlÃ¡Â¹tnÃ­
+     vÃ½jimkou jsou vÂ¹ak ty programovÃ© komponenty, kterÃ© jsou normÃ¡lnÃ¬ Â¹Ã­Ã¸eny
+     (buÃ¯ ve zdrojovÃ© nebo binÃ¡rnÃ­ formÃ¬) s hlavnÃ­mi souÃ¨Ã¡stmi operaÃ¨nÃ­ho
+     systÃ©mu, na nÃ¬mÂ¾ spustitelnÃ½ program bÃ¬Â¾Ã­ (tj. s pÃ¸ekladaÃ¨em, jÃ¡drem
+     apod.). Tyto komponenty nemusÃ­ bÃ½t Â¹Ã­Ã¸eny se zdrojovÃ½m kÃ³dem, pokud
+     ovÂ¹em komponenta sama nedoprovÃ¡zÃ­ spustitelnou podobu dÃ­la.
 
-     Je-li ¹íøení objektového nebo spustitelného kódu èinìno nabídkou
-     pøístupu ke kopírování z urèitého místa, potom se za distribuci
-     zdrojového kódu poèítá i nabídnutí ekvivalentního pøístupu ke
-     kopírování zdrojového kódu ze stejného místa, by» pøitom nejsou tøetí
-     strany nuceny ke zkopírování zdrojového kódu spolu s objektovım.
+     Je-li Â¹Ã­Ã¸enÃ­ objektovÃ©ho nebo spustitelnÃ©ho kÃ³du Ã¨inÃ¬no nabÃ­dkou
+     pÃ¸Ã­stupu ke kopÃ­rovÃ¡nÃ­ z urÃ¨itÃ©ho mÃ­sta, potom se za distribuci
+     zdrojovÃ©ho kÃ³du poÃ¨Ã­tÃ¡ i nabÃ­dnutÃ­ ekvivalentnÃ­ho pÃ¸Ã­stupu ke
+     kopÃ­rovÃ¡nÃ­ zdrojovÃ©ho kÃ³du ze stejnÃ©ho mÃ­sta, byÂ» pÃ¸itom nejsou tÃ¸etÃ­
+     strany nuceny ke zkopÃ­rovÃ¡nÃ­ zdrojovÃ©ho kÃ³du spolu s objektovÃ½m.
 
-  4. Nesmíte kopírovat, modifikovat, poskytovat sublicence anebo ¹íøit
-     Program jinım zpùsobem ne¾ vıslovnì uvedenım v této licenci. Jakıkoli
-     jinı pokus o kopírování, modifikování, poskytnutí sublicence anebo
-     ¹íøení Programu je neplatnı a automaticky ukonèí va¹e práva daná touto
-     licencí. Strany, které od vás obdr¾ely kopie anebo práva v souladu
-     s touto licencí, v¹ak nemají své licence ukonèeny, dokud se jim plnì
-     podøizují.
-  5. Není va¹í povinností tuto licenci pøijmout, proto¾e jste ji nepodepsal.
-     Nic jiného vám v¹ak nedává mo¾nost kopírovat nebo ¹íøit Program nebo
-     odvozená díla. V pøípadì, ¾e tuto licenci nepøijmete, jsou tyto
-     èinnosti zákonem zakázány. Tím pádem modifikací anebo ¹íøením Programu
-     (anebo ka¾dého díla zalo¾eného na Programu) vyjadøujete své podøízení
-     se licenci a v¹em jejím ustanovením a podmínkám pro kopírování,
-     modifikování a ¹íøení Programu a dìl na nìm zalo¾enıch.
-  6. Poka¾dé, kdy¾ redistribuujete Program (nebo dílo zalo¾ené na Programu),
-     získává pøíjemce od pùvodního dr¾itele licence právo kopírovat,
-     modifikovat a ¹íøit Program v souladu s tìmito ustanoveními
-     a podmínkami. Nesmíte klást ¾ádné pøeká¾ky vıkonu zde zaruèenıch
-     pøíjemcovıch práv. Nejste odpovìdnı za vymáhání dodr¾ování této licence
-     tøetími stranami.
-  7. Jsou-li vám z rozhodnutí soudu, obvinìním z poru¹ení patentu nebo z
-     jakéhokoli jiného dùvodu (nejen v souvislosti s patenty) ulo¾eny takové
-     podmínky (a» ji¾ pøíkazem soudu, smlouvou nebo jinak), které se
-     vyluèují s podmínkami této licence, nejste tím osvobozen od podmínek
-     této licence. Pokud nemù¾ete ¹íøit Program tak, abyste vyhovìl zároveò
-     svım závazkùm vyplıvajícím z této licence a jinım platnım zùvazkùm,
-     nesmíte jej v dùsledku toho ¹íøit vùbec. Pokud by napøíklad patentové
-     osvìdèení nepovolovalo bezplatnou redistribuci Programu v¹emi, kdo
-     va¹ím pøièinìním získají pøímo nebo nepøímo jeho kopie, pak by jedinı
-     mo¾nı zpùsob jak vyhovìt zároveò patentovému osvìdèení i této licenci
-     spoèíval v ukonèení distribuce Programu.
+  4. NesmÃ­te kopÃ­rovat, modifikovat, poskytovat sublicence anebo Â¹Ã­Ã¸it
+     Program jinÃ½m zpÃ¹sobem neÂ¾ vÃ½slovnÃ¬ uvedenÃ½m v tÃ©to licenci. JakÃ½koli
+     jinÃ½ pokus o kopÃ­rovÃ¡nÃ­, modifikovÃ¡nÃ­, poskytnutÃ­ sublicence anebo
+     Â¹Ã­Ã¸enÃ­ Programu je neplatnÃ½ a automaticky ukonÃ¨Ã­ vaÂ¹e prÃ¡va danÃ¡ touto
+     licencÃ­. Strany, kterÃ© od vÃ¡s obdrÂ¾ely kopie anebo prÃ¡va v souladu
+     s touto licencÃ­, vÂ¹ak nemajÃ­ svÃ© licence ukonÃ¨eny, dokud se jim plnÃ¬
+     podÃ¸izujÃ­.
+  5. NenÃ­ vaÂ¹Ã­ povinnostÃ­ tuto licenci pÃ¸ijmout, protoÂ¾e jste ji nepodepsal.
+     Nic jinÃ©ho vÃ¡m vÂ¹ak nedÃ¡vÃ¡ moÂ¾nost kopÃ­rovat nebo Â¹Ã­Ã¸it Program nebo
+     odvozenÃ¡ dÃ­la. V pÃ¸Ã­padÃ¬, Â¾e tuto licenci nepÃ¸ijmete, jsou tyto
+     Ã¨innosti zÃ¡konem zakÃ¡zÃ¡ny. TÃ­m pÃ¡dem modifikacÃ­ anebo Â¹Ã­Ã¸enÃ­m Programu
+     (anebo kaÂ¾dÃ©ho dÃ­la zaloÂ¾enÃ©ho na Programu) vyjadÃ¸ujete svÃ© podÃ¸Ã­zenÃ­
+     se licenci a vÂ¹em jejÃ­m ustanovenÃ­m a podmÃ­nkÃ¡m pro kopÃ­rovÃ¡nÃ­,
+     modifikovÃ¡nÃ­ a Â¹Ã­Ã¸enÃ­ Programu a dÃ¬l na nÃ¬m zaloÂ¾enÃ½ch.
+  6. PokaÂ¾dÃ©, kdyÂ¾ redistribuujete Program (nebo dÃ­lo zaloÂ¾enÃ© na Programu),
+     zÃ­skÃ¡vÃ¡ pÃ¸Ã­jemce od pÃ¹vodnÃ­ho drÂ¾itele licence prÃ¡vo kopÃ­rovat,
+     modifikovat a Â¹Ã­Ã¸it Program v souladu s tÃ¬mito ustanovenÃ­mi
+     a podmÃ­nkami. NesmÃ­te klÃ¡st Â¾Ã¡dnÃ© pÃ¸ekÃ¡Â¾ky vÃ½konu zde zaruÃ¨enÃ½ch
+     pÃ¸Ã­jemcovÃ½ch prÃ¡v. Nejste odpovÃ¬dnÃ½ za vymÃ¡hÃ¡nÃ­ dodrÂ¾ovÃ¡nÃ­ tÃ©to licence
+     tÃ¸etÃ­mi stranami.
+  7. Jsou-li vÃ¡m z rozhodnutÃ­ soudu, obvinÃ¬nÃ­m z poruÂ¹enÃ­ patentu nebo z
+     jakÃ©hokoli jinÃ©ho dÃ¹vodu (nejen v souvislosti s patenty) uloÂ¾eny takovÃ©
+     podmÃ­nky (aÂ» jiÂ¾ pÃ¸Ã­kazem soudu, smlouvou nebo jinak), kterÃ© se
+     vyluÃ¨ujÃ­ s podmÃ­nkami tÃ©to licence, nejste tÃ­m osvobozen od podmÃ­nek
+     tÃ©to licence. Pokud nemÃ¹Â¾ete Â¹Ã­Ã¸it Program tak, abyste vyhovÃ¬l zÃ¡roveÃ²
+     svÃ½m zÃ¡vazkÃ¹m vyplÃ½vajÃ­cÃ­m z tÃ©to licence a jinÃ½m platnÃ½m zÃ¹vazkÃ¹m,
+     nesmÃ­te jej v dÃ¹sledku toho Â¹Ã­Ã¸it vÃ¹bec. Pokud by napÃ¸Ã­klad patentovÃ©
+     osvÃ¬dÃ¨enÃ­ nepovolovalo bezplatnou redistribuci Programu vÂ¹emi, kdo
+     vaÂ¹Ã­m pÃ¸iÃ¨inÃ¬nÃ­m zÃ­skajÃ­ pÃ¸Ã­mo nebo nepÃ¸Ã­mo jeho kopie, pak by jedinÃ½
+     moÂ¾nÃ½ zpÃ¹sob jak vyhovÃ¬t zÃ¡roveÃ² patentovÃ©mu osvÃ¬dÃ¨enÃ­ i tÃ©to licenci
+     spoÃ¨Ã­val v ukonÃ¨enÃ­ distribuce Programu.
 
-     Pokud by se za nìjakıch specifickıch okolností jevila nìkterá èást
-     tohoto paragrafu jako neplatná nebo nevynutitelná, pova¾uje se za
-     smìrodatnou rovnováha vyjádøená tímto paragrafem a paragraf jako celek
-     se pova¾uje za smìrodatnı za jinıch okolností.
+     Pokud by se za nÃ¬jakÃ½ch specifickÃ½ch okolnostÃ­ jevila nÃ¬kterÃ¡ Ã¨Ã¡st
+     tohoto paragrafu jako neplatnÃ¡ nebo nevynutitelnÃ¡, povaÂ¾uje se za
+     smÃ¬rodatnou rovnovÃ¡ha vyjÃ¡dÃ¸enÃ¡ tÃ­mto paragrafem a paragraf jako celek
+     se povaÂ¾uje za smÃ¬rodatnÃ½ za jinÃ½ch okolnostÃ­.
 
-     Smyslem tohoto paragrafu není navádìt vás k poru¹ování patentù
-     èi jinıch ustanovení autorského práva, anebo tato ustanovení
-     zpochybòovat; jedinım jeho smyslem je ochrana integrity systému ¹íøení
-     volného programového vybavení, které je podlo¾eno veøejnımi licenèními
-     pøedpisy. Mnozí lidé poskytli své pøíspìvky do ¹irokého okruhu
-     programového vybavení ¹íøeného tímto systémem, spolehnuv¹e na jeho
-     dùsledné uplatòování; zále¾í na autorovi/dárci, aby rozhodl, zda si
-     pøeje ¹íøit programové vybavení pomocí nìjakého jiného systému a ¾ádnı
-     u¾ivatel licence nemù¾e takové rozhodnutí zpochybòovat.
+     Smyslem tohoto paragrafu nenÃ­ navÃ¡dÃ¬t vÃ¡s k poruÂ¹ovÃ¡nÃ­ patentÃ¹
+     Ã¨i jinÃ½ch ustanovenÃ­ autorskÃ©ho prÃ¡va, anebo tato ustanovenÃ­
+     zpochybÃ²ovat; jedinÃ½m jeho smyslem je ochrana integrity systÃ©mu Â¹Ã­Ã¸enÃ­
+     volnÃ©ho programovÃ©ho vybavenÃ­, kterÃ© je podloÂ¾eno veÃ¸ejnÃ½mi licenÃ¨nÃ­mi
+     pÃ¸edpisy. MnozÃ­ lidÃ© poskytli svÃ© pÃ¸Ã­spÃ¬vky do Â¹irokÃ©ho okruhu
+     programovÃ©ho vybavenÃ­ Â¹Ã­Ã¸enÃ©ho tÃ­mto systÃ©mem, spolehnuvÂ¹e na jeho
+     dÃ¹slednÃ© uplatÃ²ovÃ¡nÃ­; zÃ¡leÂ¾Ã­ na autorovi/dÃ¡rci, aby rozhodl, zda si
+     pÃ¸eje Â¹Ã­Ã¸it programovÃ© vybavenÃ­ pomocÃ­ nÃ¬jakÃ©ho jinÃ©ho systÃ©mu a Â¾Ã¡dnÃ½
+     uÂ¾ivatel licence nemÃ¹Â¾e takovÃ© rozhodnutÃ­ zpochybÃ²ovat.
 
-     Smyslem tohoto paragrafu je zevrubnì osvìtlit to, co je pova¾ováno za
-     dùsledek plynoucí ze zbytku této licence.
+     Smyslem tohoto paragrafu je zevrubnÃ¬ osvÃ¬tlit to, co je povaÂ¾ovÃ¡no za
+     dÃ¹sledek plynoucÃ­ ze zbytku tÃ©to licence.
 
-  8. Pokud je ¹íøení èi pou¾ití Programu v nìkterıch zemích omezeno buï
-     patenty anebo autorsky chránìnımi rozhraními, mù¾e dr¾itel pùvodních
-     autorskıch práv, kterı svìøuje Program do pùsobnosti této licence,
-     pøidat vıslovnì omezení pro geografické ¹íøení, vyluèující takové zemì,
-     tak¾e ¹íøení je povoleno jen v tìch zemích nebo mezi tìmi zemìmi, které
-     nejsou tímto zpùsobem vylouèeny. Tato licence zahrnuje v tomto pøípadì
-     takové omezení pøesnì tak, jako bylo zapsáno v textu této licence.
-  9. Free Software Foundation mù¾e èas od èasu vydávat upravené nebo nové
-     verze Obecné veøejné licence. Takové nové verze se budou svım duchem
-     podobat souèasné verzi, v konkrétních vìcech se v¹ak mohou li¹it
-     s ohledem na nové problémy èi zájmy.
+  8. Pokud je Â¹Ã­Ã¸enÃ­ Ã¨i pouÂ¾itÃ­ Programu v nÃ¬kterÃ½ch zemÃ­ch omezeno buÃ¯
+     patenty anebo autorsky chrÃ¡nÃ¬nÃ½mi rozhranÃ­mi, mÃ¹Â¾e drÂ¾itel pÃ¹vodnÃ­ch
+     autorskÃ½ch prÃ¡v, kterÃ½ svÃ¬Ã¸uje Program do pÃ¹sobnosti tÃ©to licence,
+     pÃ¸idat vÃ½slovnÃ¬ omezenÃ­ pro geografickÃ© Â¹Ã­Ã¸enÃ­, vyluÃ¨ujÃ­cÃ­ takovÃ© zemÃ¬,
+     takÂ¾e Â¹Ã­Ã¸enÃ­ je povoleno jen v tÃ¬ch zemÃ­ch nebo mezi tÃ¬mi zemÃ¬mi, kterÃ©
+     nejsou tÃ­mto zpÃ¹sobem vylouÃ¨eny. Tato licence zahrnuje v tomto pÃ¸Ã­padÃ¬
+     takovÃ© omezenÃ­ pÃ¸esnÃ¬ tak, jako bylo zapsÃ¡no v textu tÃ©to licence.
+  9. Free Software Foundation mÃ¹Â¾e Ã¨as od Ã¨asu vydÃ¡vat upravenÃ© nebo novÃ©
+     verze ObecnÃ© veÃ¸ejnÃ© licence. TakovÃ© novÃ© verze se budou svÃ½m duchem
+     podobat souÃ¨asnÃ© verzi, v konkrÃ©tnÃ­ch vÃ¬cech se vÂ¹ak mohou liÂ¹it
+     s ohledem na novÃ© problÃ©my Ã¨i zÃ¡jmy.
 
-     Ka¾dé nové verzi je pøidìleno rozli¹ující èíslo verze. Pokud Program
-     specifikuje èíslo verze, která se na nìj vztahuje, a ,,v¹echny
-     následující verze'' , mù¾ete se podle uvá¾ení øídit ustanoveními
-     a podmínkami buïto oné konkrétní verze anebo kterékoliv následující
-     verze, kterou vydala Free Software Foundation. Jestli¾e Program
-     nespecifikuje èíslo verze této licence, mù¾ete si vybrat libovolnou
+     KaÂ¾dÃ© novÃ© verzi je pÃ¸idÃ¬leno rozliÂ¹ujÃ­cÃ­ Ã¨Ã­slo verze. Pokud Program
+     specifikuje Ã¨Ã­slo verze, kterÃ¡ se na nÃ¬j vztahuje, a ,,vÂ¹echny
+     nÃ¡sledujÃ­cÃ­ verze'' , mÃ¹Â¾ete se podle uvÃ¡Â¾enÃ­ Ã¸Ã­dit ustanovenÃ­mi
+     a podmÃ­nkami buÃ¯to onÃ© konkrÃ©tnÃ­ verze anebo kterÃ©koliv nÃ¡sledujÃ­cÃ­
+     verze, kterou vydala Free Software Foundation. JestliÂ¾e Program
+     nespecifikuje Ã¨Ã­slo verze tÃ©to licence, mÃ¹Â¾ete si vybrat libovolnou
      verzi, kterou kdy Free Software Foundation vydala.
 
- 10. Pokud si pøejete zahrnout èásti Programu do jinıch volnıch programù,
-     jejich¾ distribuèní podmínky jsou odli¹né, za¹lete autorovi ¾ádost o
-     povolení. V pøípadì programového vybavení, k nìmu¾ vlastní autorská
-     práva Free Software Foundation, napi¹te Free Software Foundation; nìkdy
-     èiníme vıjimky ze zde uvedenıch ustanovení. Na¹e rozhodnutí bude vedeno
-     dvìma cíli; zachováním volné povahy v¹ech odvozenin na¹eho volného
-     programového vybavení a podporou sdílení a opìtovného vyu¾ití
-     programového vybavení obecnì.
+ 10. Pokud si pÃ¸ejete zahrnout Ã¨Ã¡sti Programu do jinÃ½ch volnÃ½ch programÃ¹,
+     jejichÂ¾ distribuÃ¨nÃ­ podmÃ­nky jsou odliÂ¹nÃ©, zaÂ¹lete autorovi Â¾Ã¡dost o
+     povolenÃ­. V pÃ¸Ã­padÃ¬ programovÃ©ho vybavenÃ­, k nÃ¬muÂ¾ vlastnÃ­ autorskÃ¡
+     prÃ¡va Free Software Foundation, napiÂ¹te Free Software Foundation; nÃ¬kdy
+     Ã¨inÃ­me vÃ½jimky ze zde uvedenÃ½ch ustanovenÃ­. NaÂ¹e rozhodnutÃ­ bude vedeno
+     dvÃ¬ma cÃ­li; zachovÃ¡nÃ­m volnÃ© povahy vÂ¹ech odvozenin naÂ¹eho volnÃ©ho
+     programovÃ©ho vybavenÃ­ a podporou sdÃ­lenÃ­ a opÃ¬tovnÃ©ho vyuÂ¾itÃ­
+     programovÃ©ho vybavenÃ­ obecnÃ¬.
 
-     ZÁRUKA SE NEPOSKYTUJE
+     ZÃRUKA SE NEPOSKYTUJE
 
- 11. VZHLEDEM K BEZPLATNÉMU POSKYTNUTÍ LICENCE K PROGRAMU SE NA PROGRAM
-     NEVZTAHUJE ®ÁDNÁ ZÁRUKA, A TO V MÍØE POVOLENÉ ZÁKONEM. POKUD NENÍ
-     PÍSEMNÌ STANOVENO JINAK, POSKYTUJÍ DR®ITELÉ AUTORSKİCH PRÁV POPØÍPADÌ
-     JINÉ STRANY PROGRAM ,,TAK, JAK JE'', BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, A«
-     VİSLOVNÉ NEBO VYPLİVAJÍCÍ, VÈETNÌ, ALE NIKOLI JEN, ZÁRUK PRODEJNOSTI
-     A VHODNOSTI PRO URÈITİ ÚÈEL. POKUD JDE O KVALITU A VİKONNOST PROGRAMU,
-     LE®Í VE©KERÉ RIZIKO NA VÁS. POKUD BY SE U PROGRAMU PROJEVILY ZÁVADY,
-     PADAJÍ NÁKLADY ZA V©ECHNU POTØEBNOU ÚDR®BU, OPRAVY ÈI NÁPRAVU NA VÁ©
+ 11. VZHLEDEM K BEZPLATNÃ‰MU POSKYTNUTÃ LICENCE K PROGRAMU SE NA PROGRAM
+     NEVZTAHUJE Â®ÃDNÃ ZÃRUKA, A TO V MÃÃ˜E POVOLENÃ‰ ZÃKONEM. POKUD NENÃ
+     PÃSEMNÃŒ STANOVENO JINAK, POSKYTUJÃ DRÂ®ITELÃ‰ AUTORSKÃCH PRÃV POPÃ˜ÃPADÃŒ
+     JINÃ‰ STRANY PROGRAM ,,TAK, JAK JE'', BEZ ZÃRUKY JAKÃ‰HOKOLIV DRUHU, AÂ«
+     VÃSLOVNÃ‰ NEBO VYPLÃVAJÃCÃ, VÃˆETNÃŒ, ALE NIKOLI JEN, ZÃRUK PRODEJNOSTI
+     A VHODNOSTI PRO URÃˆITÃ ÃšÃˆEL. POKUD JDE O KVALITU A VÃKONNOST PROGRAMU,
+     LEÂ®Ã VEÂ©KERÃ‰ RIZIKO NA VÃS. POKUD BY SE U PROGRAMU PROJEVILY ZÃVADY,
+     PADAJÃ NÃKLADY ZA VÂ©ECHNU POTÃ˜EBNOU ÃšDRÂ®BU, OPRAVY ÃˆI NÃPRAVU NA VÃÂ©
      VRUB.
- 12. V ®ÁDNÉM PØÍPADÌ, S VİJIMKOU TOHO, KDY® TO VY®ADUJE PLATNİ ZÁKON, ANEBO
-     KDY® TO BYLO PÍSEMNÌ ODSOUHLASENO, VÁM NEBUDE ®ÁDNİ Z DR®ITELÙ
-     AUTORSKİCH PRÁV ANI ®ÁDNÁ JINÁ STRANA, KTERÁ SMÍ MODIFIKOVAT ÈI ©ÍØIT
-     PROGRAM V SOULADU S PØEDCHOZÍMI USTANOVENÍMI, ODPOVÌDNİ ZA ©KODY,
-     VÈETNÌ V©ECH OBECNİCH, SPECIÁLNÍCH, NAHODILİCH NEBO NÁSLEDNİCH ©KOD
-     VYPLİVAJÍCÍCH Z U®ÍVÁNÍ ANEBO NESCHOPNOSTI U®ÍVAT PROGRAMU (VÈETNÌ ALE
-     NIKOLI JEN, ZTRÁTY NEBO ZKRESLENÍ DAT, NEBO TRVALİCH ©KOD ZPÙSOBENİCH
-     VÁM NEBO TØETÍM STRANÁM, NEBO SELHÁNÍ FUNKCE PROGRAMU V SOUÈINNOSTI
-     S JINİMI PROGRAMY), A TO I V PØÍPADÌ, ®E TAKOVİ DR®ITEL AUTORSKİCH
-     PRÁV NEBO JINÁ STRANA BYLI UPOZORNÌNI NA MO®NOST TAKOVİCH ©KOD.
+ 12. V Â®ÃDNÃ‰M PÃ˜ÃPADÃŒ, S VÃJIMKOU TOHO, KDYÂ® TO VYÂ®ADUJE PLATNÃ ZÃKON, ANEBO
+     KDYÂ® TO BYLO PÃSEMNÃŒ ODSOUHLASENO, VÃM NEBUDE Â®ÃDNÃ Z DRÂ®ITELÃ™
+     AUTORSKÃCH PRÃV ANI Â®ÃDNÃ JINÃ STRANA, KTERÃ SMÃ MODIFIKOVAT ÃˆI Â©ÃÃ˜IT
+     PROGRAM V SOULADU S PÃ˜EDCHOZÃMI USTANOVENÃMI, ODPOVÃŒDNÃ ZA Â©KODY,
+     VÃˆETNÃŒ VÂ©ECH OBECNÃCH, SPECIÃLNÃCH, NAHODILÃCH NEBO NÃSLEDNÃCH Â©KOD
+     VYPLÃVAJÃCÃCH Z UÂ®ÃVÃNÃ ANEBO NESCHOPNOSTI UÂ®ÃVAT PROGRAMU (VÃˆETNÃŒ ALE
+     NIKOLI JEN, ZTRÃTY NEBO ZKRESLENÃ DAT, NEBO TRVALÃCH Â©KOD ZPÃ™SOBENÃCH
+     VÃM NEBO TÃ˜ETÃM STRANÃM, NEBO SELHÃNÃ FUNKCE PROGRAMU V SOUÃˆINNOSTI
+     S JINÃMI PROGRAMY), A TO I V PÃ˜ÃPADÃŒ, Â®E TAKOVÃ DRÂ®ITEL AUTORSKÃCH
+     PRÃV NEBO JINÃ STRANA BYLI UPOZORNÃŒNI NA MOÂ®NOST TAKOVÃCH Â©KOD.

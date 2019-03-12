@@ -1,27 +1,27 @@
 #!/bin/bash
 
 #========================================================================
-#     Obì¹enec 1.1
+#     ObÃ¬Â¹enec 1.1
 #     Copyright (C) 2002-2003  Jan Fuchs
 #------------------------------------------------------------------------
 #     E-mail: fuky@seif.cz
 #        Web: http://www.seif.cz
 #------------------------------------------------------------------------
-#     Poslední modifikace: 12.11. 2003
-#            Znaková sada: ISO-8859-2
+#     PoslednÃ­ modifikace: 12.11. 2003
+#            ZnakovÃ¡ sada: ISO-8859-2
 #------------------------------------------------------------------------
-#     Tento program je volné programové vybavení; mù¾ete jej ¹íøit a
-# modifikovat podle ustanovení Obecné veøejné licence GNU, vydávané Free
-# Software Foundation; a to buï verze 2 této licence anebo (podle va¹eho
-# uvá¾ení) kterékoli pozdìj¹í verze.
+#     Tento program je volnÃ© programovÃ© vybavenÃ­; mÃ¹Â¾ete jej Â¹Ã­Ã¸it a
+# modifikovat podle ustanovenÃ­ ObecnÃ© veÃ¸ejnÃ© licence GNU, vydÃ¡vanÃ© Free
+# Software Foundation; a to buÃ¯ verze 2 tÃ©to licence anebo (podle vaÂ¹eho
+# uvÃ¡Â¾enÃ­) kterÃ©koli pozdÃ¬jÂ¹Ã­ verze.
 #------------------------------------------------------------------------
-#     Tento program je roz¹iøován v nadìji, ¾e bude u¾iteènı, av¹ak BEZ
-# JAKÉKOLI ZÁRUKY; neposkytují se ani odvozené záruky PRODEJNOSTI anebo
-# VHODNOSTI PRO URÈITİ ÚÈEL.
-# Dal¹í podrobnosti hledejte v Obecné veøejné licenci GNU.
+#     Tento program je rozÂ¹iÃ¸ovÃ¡n v nadÃ¬ji, Â¾e bude uÂ¾iteÃ¨nÃ½, avÂ¹ak BEZ
+# JAKÃ‰KOLI ZÃRUKY; neposkytujÃ­ se ani odvozenÃ© zÃ¡ruky PRODEJNOSTI anebo
+# VHODNOSTI PRO URÃˆITÃ ÃšÃˆEL.
+# DalÂ¹Ã­ podrobnosti hledejte v ObecnÃ© veÃ¸ejnÃ© licenci GNU.
 #------------------------------------------------------------------------
-#    Kopii Obecné veøejné licence GNU jste mìl obdr¾et spolu s tímto
-# programem; pokud se tak nestalo, napi¹te o ni Free Software Foundation,
+#    Kopii ObecnÃ© veÃ¸ejnÃ© licence GNU jste mÃ¬l obdrÂ¾et spolu s tÃ­mto
+# programem; pokud se tak nestalo, napiÂ¹te o ni Free Software Foundation,
 # Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 #========================================================================
 
@@ -32,7 +32,7 @@ share="/usr/local/share/obesenec"
 
 function napoveda() {
   echo "obesenec.sh:"
-  echo "-h, --help vypí¹e nápovìdu"
+  echo "-h, --help vypÃ­Â¹e nÃ¡povÃ¬du"
   echo "-d         zapne xtrace"
 } # napoveda()
 
@@ -42,7 +42,7 @@ elif [ "$1" == "-h" ] || [ "$1" == "--help" ]; then
   napoveda
   exit 0
 elif [ "$1" ]; then
-  echo "Neznámı pøepínaè: $1"
+  echo "NeznÃ¡mÃ½ pÃ¸epÃ­naÃ¨: $1"
   napoveda
   exit 0
 fi
@@ -71,19 +71,19 @@ function stopky_stop() {
 
 function vypis_hlavicka() {
   echo "_________"
-  echo " Pøíkazy "
+  echo " PÃ¸Ã­kazy "
   echo "~~~~~~~~~"
-  echo "nh - nová hra"
+  echo "nh - novÃ¡ hra"
   echo "end - konec programu"
-  echo "licence - licenèní úmluvy"
+  echo "licence - licenÃ¨nÃ­ Ãºmluvy"
   echo "__________"
-  echo " Obì¹enec "
+  echo " ObÃ¬Â¹enec "
   echo "~~~~~~~~~~"
 } # vypis_hlavicka()
 
 function vypis_konec() {
   stopky_start
-  echo -n "Zadej znak nebo pøíkaz: "
+  echo -n "Zadej znak nebo pÃ¸Ã­kaz: "
   read retezec
 } # vypis_konec()
 
@@ -92,8 +92,8 @@ function vypis_prohra() {
   vypis_hlavicka
   head -n130 "${share}/obesenec.obr" | tail -n13
   echo
-  echo "Tipované slovo (vìta): $slovo"
-  echo "Prohrál(a) jsi."
+  echo "TipovanÃ© slovo (vÃ¬ta): $slovo"
+  echo "ProhrÃ¡l(a) jsi."
   sleep 2
   echo
   echo -n "Stiskni ENTER"
@@ -102,9 +102,9 @@ function vypis_prohra() {
 function vypis_vyhra() {
   clear
   vypis_hlavicka
-  echo "Tipované slovo (vìta): $slovo"
-  echo "Vyhrál(a) jsi."
-  echo -n "Zadej pøíkaz: ";
+  echo "TipovanÃ© slovo (vÃ¬ta): $slovo"
+  echo "VyhrÃ¡l(a) jsi."
+  echo -n "Zadej pÃ¸Ã­kaz: ";
   read retezec
 } # vypis_vyhra()
 
@@ -118,10 +118,10 @@ function pridej_znaky() {
   znak_vel=""
 
   if [ "$rozliseni" == "nic" ] || [ "$rozliseni" == "velikost" ]; then
-    znak_dia=$(echo $retezec_por | tr 'riseztcyundao' 'øí¹ì¾»èıùòïáó')
-    znak_dia="$znak_dia$(echo $retezec_por | tr 'riseztcyundao' 'ØÍ©Ì®«ÈİÙÒÏÁÓ')"
-    znak_dia="$znak_dia$(echo $retezec_por | tr 'ue' 'úé')"
-    znak_dia="$znak_dia$(echo $retezec_por | tr 'ue' 'ÚÉ')"
+    znak_dia=$(echo $retezec_por | tr 'riseztcyundao' 'Ã¸Ã­Â¹Ã¬Â¾Â»Ã¨Ã½Ã¹Ã²Ã¯Ã¡Ã³')
+    znak_dia="$znak_dia$(echo $retezec_por | tr 'riseztcyundao' 'Ã˜ÃÂ©ÃŒÂ®Â«ÃˆÃÃ™Ã’ÃÃÃ“')"
+    znak_dia="$znak_dia$(echo $retezec_por | tr 'ue' 'ÃºÃ©')"
+    znak_dia="$znak_dia$(echo $retezec_por | tr 'ue' 'ÃšÃ‰')"
   fi
 
   if [ "$rozliseni" == "nic" ] || [ "$rozliseni" == "diakritika" ]; then
@@ -134,7 +134,7 @@ function pridej_znaky() {
 function kontrola() {
   if [ "$konec" -eq "10" ]; then
     vypis_hlavicka
-    echo -n "Zadej pøíkaz: "
+    echo -n "Zadej pÃ¸Ã­kaz: "
     read retezec
   else
     vypis_hlavicka
@@ -165,8 +165,8 @@ function kontrola() {
     obes
     echo
 
-    echo "Nalezené znaky: $nalezene_znaky"
-    echo "Tipované slovo (vìta): $slovo_tip"
+    echo "NalezenÃ© znaky: $nalezene_znaky"
+    echo "TipovanÃ© slovo (vÃ¬ta): $slovo_tip"
 
     if ! $([ -z "$chybne_znaky" ]); then
       echo "Slovo neobsahuje: $chybne_znaky"
@@ -178,9 +178,9 @@ function kontrola() {
 
 function modifikace() {
   if [ "$rozliseni" == "nic" ]; then
-    echo $(echo "$1" | tr [:upper:] [:lower:] | tr 'øí¹ì¾»èıùòúïáéó' 'riseztcyunudaeo')
+    echo $(echo "$1" | tr [:upper:] [:lower:] | tr 'Ã¸Ã­Â¹Ã¬Â¾Â»Ã¨Ã½Ã¹Ã²ÃºÃ¯Ã¡Ã©Ã³' 'riseztcyunudaeo')
   elif [ "$rozliseni" == "velikost" ]; then
-    echo $(echo "$1" | tr 'øí¹ì¾»èıùòúïáéóØÍ©Ì®«ÈİÙÒÚÏÁÉÓ' 'riseztcyunudaeoRISEZTCYUNUDAEO')
+    echo $(echo "$1" | tr 'Ã¸Ã­Â¹Ã¬Â¾Â»Ã¨Ã½Ã¹Ã²ÃºÃ¯Ã¡Ã©Ã³Ã˜ÃÂ©ÃŒÂ®Â«ÃˆÃÃ™Ã’ÃšÃÃÃ‰Ã“' 'riseztcyunudaeoRISEZTCYUNUDAEO')
   elif [ "$rozliseni" == "diakritika" ]; then
     echo $(echo "$1" | tr [:upper:] [:lower:])
   elif [ "$rozliseni" == "all" ]; then
@@ -210,7 +210,7 @@ function nova_hra() {
   konec=0
 
   vypis_hlavicka
-  echo "Tipované slovo (vìta): $slovo_tip"
+  echo "TipovanÃ© slovo (vÃ¬ta): $slovo_tip"
   vypis_konec
 } # nova_hra()
 
@@ -261,11 +261,11 @@ soubory_existence
 konfigurace
 
 echo "_______________________________________________________"
-echo " Obì¹enec verze 1.1, Copyright (C) 2002-2003 Jan Fuchs "
+echo " ObÃ¬Â¹enec verze 1.1, Copyright (C) 2002-2003 Jan Fuchs "
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-echo "    Obì¹enec je ABSOLUTNÌ BEZ ZÁRUKY; podrobnosti se dozvíte zadáním"
-echo "pøíkazu licence. Jde o volné programové vybavení a jeho ¹íøení za"
-echo "jistıch podmínek je vítáno; podrobnosti získáte zadáním pøíkazu licence."
+echo "    ObÃ¬Â¹enec je ABSOLUTNÃŒ BEZ ZÃRUKY; podrobnosti se dozvÃ­te zadÃ¡nÃ­m"
+echo "pÃ¸Ã­kazu licence. Jde o volnÃ© programovÃ© vybavenÃ­ a jeho Â¹Ã­Ã¸enÃ­ za"
+echo "jistÃ½ch podmÃ­nek je vÃ­tÃ¡no; podrobnosti zÃ­skÃ¡te zadÃ¡nÃ­m pÃ¸Ã­kazu licence."
 
 nova_hra
 
@@ -277,9 +277,9 @@ do
     vypis_hlavicka
 
     if [ "$konec" -eq "10" ]; then
-      echo -n "Zadej pøíkaz: "
+      echo -n "Zadej pÃ¸Ã­kaz: "
     else
-      echo -n "Zadej znak nebo pøíkaz: "
+      echo -n "Zadej znak nebo pÃ¸Ã­kaz: "
     fi
 
     read retezec
@@ -289,12 +289,13 @@ do
     case "$retezec" in
       "nh" )
         clear
-        nova_hra
-        ;;
+        nova_hra;;
 
       "end" )
         exit 0
         ;;
+        "cheat" )
+        vypis_vyhra;;
 
       "licence" )
         if [ -e "${share}/licence.cs" ]
@@ -309,15 +310,15 @@ do
         nova_hra
         ;;
 
-      [a-¾] | [A-®] )
+      [a-z] | [A-Z] )
         stopky_stop
         kontrola
 	;;
 
       * )
 	vypis_hlavicka
-        echo "Zadal(a) jsi nepovolenı znak èi pøíkaz!!!"
-        echo -n "Zadej znak nebo pøíkaz: "
+        echo "Zadal(a) jsi nepovolenÃ½ znak Ã¨i pÃ¸Ã­kaz!!!"
+        echo -n "Zadej znak nebo pÃ¸Ã­kaz: "
         read retezec
         ;;
     esac
